@@ -178,6 +178,24 @@ nav ul li a:hover {
     margin-bottom: 1rem;
 }
 
+.timeline-content .tech-stack {
+    color: var(--primary-color);
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.timeline-content ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+.timeline-content ul li {
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+}
+
 /* Projects Grid */
 .projects-grid {
     display: grid;
